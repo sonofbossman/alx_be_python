@@ -1,4 +1,5 @@
-number1, number2 = 10, 5
+number1 = 10
+number2 = 5
 add = number1 + number2
 subtract = number1 - number2
 multiply = number1 * number2
